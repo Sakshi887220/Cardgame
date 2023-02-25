@@ -1,19 +1,4 @@
-#For this we need to build for classes
-#1 . Card class - Hold the information about the card
-#2 . Deck class - Hold the information baout the complete set of 52 cards
-#3 . Player class - Hold the information about the cards the player are having
-#4 . Table class - Holds the information about the cards on table.\
 
-'''
-1. This game involves two players and initialy each player is given 26 cards each.
-2. They have to put there top card on the table turn wise
-3. If the card they are going to put on table matchs with the already top card on the table
-MATCH condition - Two cards match if they have same suit OR if they have same rank
-4. Player wins that chance and he take all the cards on the table and add all those cards to the end of the deck of cards he
-already have.
-5. This way game runs until one of the player run out of cards
-6. The player that run out of cards losses and other player wins the game!!!!!
-'''
 
 import random
 
